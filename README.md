@@ -25,7 +25,7 @@ The Armenian dataset used in this project is from the [Common Voice project by M
 
 
 ### Drive Link
-Access the project resources here: [Google Drive Link](https://drive.google.com/drive/folders/1-0H2O_2IwMNCJAQfgolBoxSgLMnvNX6n?usp=sharing)
+Access the project resources here: [Google Drive Link](https://drive.google.com/drive/folders/1_GEwmRpFh-UUO1cn5J9HvOmQ_K7_gzIt?usp=sharing)
 
 All preprocessed data, trained models, configuration files, and the Jupyter Notebook used for this project are available in a shared Google Drive folder. You can simply create a shortcut in your Drive, and with the notebook mount in your Drive and easily use all the resources.
 
